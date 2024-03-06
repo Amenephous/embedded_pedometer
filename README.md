@@ -1,2 +1,3 @@
-# embedded_pedometer
-This repository contains the source code and documentation for an embedded pedometer system built using STM32 microcontroller.
+# Embedded Pedometer
+Welcome to the STM32 Embedded Pedometer project repository! This project utilizes PlatformIO on Visual Studio Code to develop an embedded pedometer system using STM32 microcontroller.
+
